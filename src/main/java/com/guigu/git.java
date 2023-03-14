@@ -6,5 +6,6 @@ public class git {
         System.out.println("hello git2!");
         //master的分支
         //hot-fix的分支
+        //高大大好屌
     }
 }
