@@ -5,5 +5,6 @@ public class git {
         System.out.println("hello git1");
         System.out.println("hello git2!");
         //master的分支
+        //hot-fix的分支
     }
 }
